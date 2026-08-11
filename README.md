@@ -7,12 +7,12 @@ provides recommendations through an interactive Streamlit interface.
 
 ## Features
 
-- 📄 Upload resumes and job descriptions as **PDF, DOCX, or TXT** (or paste text directly)
-- 🧠 Skill extraction using a **spaCy PhraseMatcher** against a curated skills database (100+ skills across programming, data science, cloud, tools, and soft skills)
-- 📊 **Match score** via TF-IDF vectorization + cosine similarity between resume and job description
-- ✅ **Skill gap analysis**: see which required skills are present vs. missing
-- 💡 **Rule-based recommendations** based on match strength and skill gaps
-- 🎛️ Clean, interactive Streamlit UI with metrics, progress bar, and expandable skill lists
+-  Upload resumes and job descriptions as **PDF, DOCX, or TXT** (or paste text directly)
+-  Skill extraction using a **spaCy PhraseMatcher** against a curated skills database (100+ skills across programming, data science, cloud, tools, and soft skills)
+-  **Match score** via TF-IDF vectorization + cosine similarity between resume and job description
+-  **Skill gap analysis**: see which required skills are present vs. missing
+-  **Rule-based recommendations** based on match strength and skill gaps
+-  Clean, interactive Streamlit UI with metrics, progress bar, and expandable skill lists
 
 ## Project Structure
 
