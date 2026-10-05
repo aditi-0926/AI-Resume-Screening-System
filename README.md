@@ -74,3 +74,5 @@ Then open the local URL Streamlit prints (usually `http://localhost:8501`).
 - Add weighting (e.g. required vs. nice-to-have skills) if the job description distinguishes them
 - Persist results to a database for tracking candidates over time
 - Add authentication and a recruiter dashboard for managing multiple job postings
+
+- Testing YOLO Badge
