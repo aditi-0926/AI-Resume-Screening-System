@@ -75,4 +75,3 @@ Then open the local URL Streamlit prints (usually `http://localhost:8501`).
 - Persist results to a database for tracking candidates over time
 - Add authentication and a recruiter dashboard for managing multiple job postings
 
-- Testing YOLO Badge
